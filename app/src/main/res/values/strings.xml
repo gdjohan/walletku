@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Walletku</string>
+
+    <string-array name="type_dropdown">
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+
+    <string-array name="category_dropdown">
+        <item>Salary</item>
+        <item>Gift</item>
+        <item>Food and Drinks</item>
+        <item>Education</item>
+        <item>Clothing</item>
+        <item>Holiday</item>
+        <item>Rent</item>
+        <item>Subscription</item>
+        <item>Others</item>
+    </string-array>
+</resources>
